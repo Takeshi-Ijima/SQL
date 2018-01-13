@@ -1,7 +1,7 @@
 -- 8-4
 
 -- 8-3
-select cust_id, count(*) from account group by cust_id having count(*) >= 2;
+-- select cust_id, count(*) from account group by cust_id having count(*) >= 2;
 
 -- 8-2
 -- select cust_id,  count(*) from account group by cust_id;
